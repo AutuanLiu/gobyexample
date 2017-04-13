@@ -22,4 +22,4 @@ The Go Gopher is copyright the Go Authors and licensed under a
 
 ### 原版 ReadMe
 
-[ReadMe] (https://github.com/mmcgrana/gobyexample#go-by-example)
+[ReadMe](https://github.com/mmcgrana/gobyexample#go-by-example)
